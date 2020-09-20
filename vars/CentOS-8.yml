@@ -1,0 +1,16 @@
+role_bi_packages_minimum:
+  packages:
+    - man
+    - screen
+    - tmux
+    - vim
+      #   packages_max:
+      #     - epel-release
+      #     - haveged
+      #     - logwatch
+      #     - fail2ban
+      #   packages_net:
+      #     - bind-utils
+      #     - mtr
+      #     - tcpdump
+      #     - tcptraceroute

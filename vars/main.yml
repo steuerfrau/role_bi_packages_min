@@ -1,0 +1,4 @@
+---
+# vars file for bi-packages-minimum
+role_bi_packages_minimum:
+  os_independent_var": "Test"
