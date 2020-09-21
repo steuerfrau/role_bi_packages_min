@@ -1,6 +1,7 @@
-role_bi_packages_minimum_osd:
-  packages:
-    - man
-    - screen
-    - tmux
-    - vim
+role_bi_packages_minimum:
+  os_dependent:
+    packages:
+      - man
+      - screen
+      - tmux
+      - vim
