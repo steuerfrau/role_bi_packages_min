@@ -1,4 +1,2 @@
 ---
 # vars file for bi-packages-minimum
-role_bi_packages_minimum_osi:
-  - var: "Test"

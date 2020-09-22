@@ -2,5 +2,5 @@
   package:
     name: "{{ item }}"
     state: present
-  loop: "{{ role_bi_packages_minimum_osd.packages }}"
+  loop: "{{ role_bi_packages_minimum_packages }}"
 
