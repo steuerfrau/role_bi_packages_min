@@ -3,7 +3,7 @@ role_bi_packages_minimum_packages:
     - cpio
     - psmisc
     - redhat-lsb-core
-    - screen
+    # - screen
     - tar
     - tmux
     - tree
