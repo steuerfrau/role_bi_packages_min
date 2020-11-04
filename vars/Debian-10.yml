@@ -5,6 +5,7 @@ role_bi_packages_minimum_packages:
     - apt-transport-https
     - man
     - psmisc
+    - python-apt # Damit Ansible apt update sagen kann
     - lsb-base
     - screen
     - sudo
