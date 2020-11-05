@@ -1,0 +1,13 @@
+role_bi_packages_minimum_packages:
+    - apt
+    - aptitude
+    - apt-file
+    - apt-transport-https
+    - man
+    - psmisc
+    - lsb-core
+    - screen
+    - sudo
+    - tmux
+    - tree
+    - vim
